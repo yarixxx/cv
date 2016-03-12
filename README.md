@@ -2,7 +2,7 @@
 
 ## Work experience
 
-#### Jul 2015 – present – Software Engineer, EPAM Systems, Mountain View, California
+#### Jul 2015 – present – Software Engineer, EPAM Systems, Mountain View, CA
 
 **Project2**: Internal issues management system.  
 **Project Role**: Software Engineer  
@@ -25,7 +25,7 @@ Created multiple `WebDriver` tests for complex UI.
 
 -----
 
-### Jul 2013 – May 2015 – Senior Software Engineer, Luxoft, Saint-Petersburg, Russia/Bucharest, Romania
+#### Jul 2013 – May 2015 – Software Engineer, Luxoft, Saint-Petersburg, Russia/Bucharest, Romania
 
 **Project2**: Platform for one of the largest German banks for presenting complex financial information.  
 **Project Role**: Software Developer  
@@ -45,7 +45,7 @@ Made performance optimizations for `iPad`
 
 -----
 
-### Jul 2011 – Jun 2013 – Software Engineer, Motorola Mobility, Saint-Petersburg, Russia
+#### Jul 2011 – Jun 2013 – Software Engineer, Motorola Mobility, Saint-Petersburg, Russia
 
 **Project**: DreamPark, a platform for a Cable TV and IPTV providers  
 **Project Role**: Software Developer  
@@ -66,7 +66,7 @@ Provided trainings on SVG for ITMO university students
 
 -----
 	
-### Jun 2010 – Jun 2011 – Senior Front-End Developer, Netrika, Saint-Petersburg, Russia
+#### Jun 2010 – Jun 2011 – Senior Front-End Developer, Netrika, Saint-Petersburg, Russia
 
 **Project2**: Stat, an internal statistics server  
 **Project Role**: Senior Front-End Developer  
@@ -85,7 +85,7 @@ Tried out cutting edge CSS3 and HTML5 features to improve pages appearance
 
 -----
 
-### Dec 2009 – Jul 2010 – Web Developer, Great People company, Saint-Petersburg, Russia
+#### Dec 2009 – Jul 2010 – Web Developer, Great People company, Saint-Petersburg, Russia
 
 **Tasks and Accomplishments**  
 Introduced microformats: hCard, hCalendar, and hListing  
@@ -95,7 +95,7 @@ Fixed several bugs in a ticket ordering form
 
 -----
 
-### Aug 2009 – Oct 2009 – Front-End Developer, Ittilan, Saint-Petersburg, Russia
+#### Aug 2009 – Oct 2009 – Front-End Developer, Ittilan, Saint-Petersburg, Russia
 
 **Tasks and Accomplishments**  
 Developed several projects based on SharePoint  
@@ -107,7 +107,7 @@ Utilized CSS and JavaScript to decorate and animate HTML
 -----
 
 
-####Apr 2008 – Jul 2009 – Front-End Developer, SpaceWeb, Saint-Petersburg, Russia
+#### Apr 2008 – Jul 2009 – Front-End Developer, SpaceWeb, Saint-Petersburg, Russia
 
 **Tasks and Accomplishments**  
 Created extension for Firefox (JS+XUL) to reduce the time required for technical support response  
